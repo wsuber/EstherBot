@@ -1,6 +1,6 @@
 {
         "HELLO": "Hi I am Physics-Bot!\nI am a bot created by Will Suber, an intern at BadJupiter LLC\n Type 'Physics' for a menu of options!",
-    "CAN YOU HELP ME": "Yes. Please insert a command!",
+    "CAN YOU HELP ME": "Yes. Please insert a command! Try 'Physics'",
     "PHYSICS": "SELECT: Mechanics, Modern Physics, Waves, Electricity, Constants, Mass, Prefixes, Coefficient of Friction, Frequencies, Absolute Index of Refraction, matter, or resistivity",
     "MECHANICS": "FORMULAS, SELECT ONE: Displacement or Distance, acceleration, final velocity, force of friction, force due to gravity, normal force, acceleration due to gravity, momentum, impulse, Max force on a spring, Potential energy of a spring, Centripital acceleration, centripital force, potential energy, work, or power.",
     "MODERN PHYSICS": "FORMULAS, SELECT ONE: Energy of a photon or energy to mass",
@@ -15,6 +15,10 @@
     "MATTER": "SELECT ONE: Hadron or Lepton",
     "RESISTIVITY": "SELECT A MATERIAL: Aluminum, Copper, Gold, Nichrome, Silver, Tungsten",
     "QQQZXDFG": "Twilio- 14438927057  heroku- will-bot.herokuapp.com   smooch- wills other bot FB- Will's Bot",
+    "DISTANCE": "Distance is equal to (Vi*t)+ 1/2(at^2)\n Be careful! Make sure you remember that the acceleration is negative when youre throwing an object up into the air! Also, if the object starts at rest, dropped, or thrown horizontally, d=1/2at^2",
+    "DISPLACEMENT": "Distance is equal to (Vi*t)+ 1/2(at^2)\n Be careful! Make sure you remember that the acceleration is negative when youre throwing an object up into the air! Also, if the object starts at rest, dropped, or thrown horizontally, d=1/2at^2",
+    "ACCELERATION": "a=change in V/t\n a= net force/mass. This equation is Newton's Second Law. F=ma!",
+    "FINAL VELOCITY": "Vf=Vi+at\nVf^2=vi^2+2ad.\n Remember that these are FINAL SPEEDS/VELOCITIES, not averages. "
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, Will-Bot is back."
+    "DISCONNECT": "Roger that, Physics-Bot is back."
 }
