@@ -18,7 +18,8 @@
     "DISTANCE": "Distance is equal to (Vi*t)+ 1/2(at^2)\n Be careful! Make sure you remember that the acceleration is negative when youre throwing an object up into the air! Also, if the object starts at rest, dropped, or thrown horizontally, d=1/2at^2",
     "DISPLACEMENT": "Distance is equal to (Vi*t)+ 1/2(at^2)\n Be careful! Make sure you remember that the acceleration is negative when youre throwing an object up into the air! Also, if the object starts at rest, dropped, or thrown horizontally, d=1/2at^2",
     "ACCELERATION": "a=change in V/t\n a= net force/mass. This equation is Newton's Second Law. F=ma!",
-    "FINAL VELOCITY": "Vf=Vi+at\nVf^2=vi^2+2ad.\n Remember that these are FINAL SPEEDS/VELOCITIES, not averages. "
+    "FINAL VELOCITY": "Vf=Vi+at\nVf^2=vi^2+2ad.\n Remember that these are FINAL SPEEDS/VELOCITIES, not averages. ",
+    "FORCE OF FRICTION":"INPROGRESS",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Physics-Bot is back."
 }
