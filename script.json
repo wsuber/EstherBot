@@ -1,5 +1,5 @@
 {
-        "HELLO": "Hi I am Will-Bot!\nI am a bot created by Will Suber, an intern at BadJupiter LLC",
+        "HELLO": "Hi I am Will-Bot!\nI am a bot created by Will Suber, an intern at BadJupiter LLC\n How are you?",
     "CAN YOU HELP ME": "Yes. Please insert a command!",
     "WHAT KIND OF MUSIC DOES WILL LIKE": "Will's favorite music is Rap\nHowever, he like most music besides Country!",
     "WHERE IS WILL FROM": "Will lives in Central New York!",
@@ -39,8 +39,8 @@
     "WHAT": "Data!",
     "DATA": "Well... don't you just have to ruin all of the fun...",
     "HELP": "If you need a full list of commands, type 'list'. WARNING: The list is incredibly long. If you'd rather see a simplified list, type 'Simple List' ",
-    "SIMPLE LIST": "'hello' 'Can you help me' 'Where is Will from' 'What is your name' 'How are you' 'What is BadJupiter' 'What does Will look like' 'Tell me a joke'",
-    "LIST": "*This item is nit set up at the moment*",
+    "SIMPLE LIST": "'hello'   'Can you help me'   'Where is Will from'   'What is your name'   'How are you'   'What is BadJupiter'   'What does Will look like'   'Tell me a joke'   'What's the weather'",
+    "LIST": "*This item is not set up at the moment*",
     "CAN I CONTACT WILL": "You can email Will using Will@badjupiter.com, DM him on twitter, or SnapChat him! \nTWITTER: https://twitter.com/SuberWill SNAPCHAT: will_suber Go ahead and add him now using the following image\n![snapchat](https://cloud.githubusercontent.com/assets/20194607/16456293/103745a2-3ddd-11e6-9d04-0653f74cd166.jpeg)",
     "HOW CAN I CONTACT WILL": "You can email Will using Will@badjupiter.com, DM him on twitter, or SnapChat him! \nTWITTER: https://twitter.com/SuberWill SNAPCHAT: will_suber Go ahead and add him now using the following image\n![snapchat](https://cloud.githubusercontent.com/assets/20194607/16456293/103745a2-3ddd-11e6-9d04-0653f74cd166.jpeg)",
     "CONTACT WILL": "You can email Will using Will@badjupiter.com, DM him on twitter, or SnapChat him! \nTWITTER: https://twitter.com/SuberWill SNAPCHAT: will_suber Go ahead and add him now using the following image\n![snapchat](https://cloud.githubusercontent.com/assets/20194607/16456293/103745a2-3ddd-11e6-9d04-0653f74cd166.jpeg)",
@@ -52,6 +52,9 @@
     "WHERE DOES WILL WORK": "Will works at Subway and as an intern at BadJupiter! Type either of the work place names to find out more!",
     "SUBWAY": "Since June of 2014, Will has been a sandwich artist at one of his local Subways\n Stop in and say hi! https://www.facebook.com/Norpat-Enterprises-Inc-Subway-of-West-Rome-551478961651570/",
     "WHAT IS THE WEATHER": "Click here! https://www.google.com/#safe=active&q=what+is+the+weather",
+    "WHAT'S THE WEATHER": "Click here! https://www.google.com/#safe=active&q=what+is+the+weather",
+    "WHAT LANGUAGES DO YOU KNOW": "Currently, I only know English",
+    ""
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Will-Bot is back."
 }
