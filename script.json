@@ -39,8 +39,8 @@
     "WHAT": "Data!",
     "DATA": "Well... don't you just have to ruin all of the fun...",
     "HELP": "If you need a full list of commands, type 'list'. WARNING: The list is incredibly long. If you'd rather see a simplified list, type 'Simple List' ",
-    "SIMPLE LIST": "'hello'   'Can you help me'   'Where is Will from'   'What is your name'   'How are you'   'What is BadJupiter'   'What does Will look like'   'Tell me a joke'   'What's the weather'",
-    "LIST": "‘HELLO’ ’CAN YOU HELP ME’ ’WHAT KIND OF MUSIC DOES WILL LIKE’ ’WHERE IS WILL FROM’ ’WHAT IS WILL'S FAVORITE COLOR’ ’WHAT SPORTS DOES WILL PLAY’ ’WHO ARE WILL'S PARENTS’ ’MOTHER’ ’Julie is a second grade teacher’ ’JULIE’ ’FATHER’ ’WAYNE’ ’WHERE DOES WILL WANT TO GO TO COLLEGE’ ’WHAT DOES WILL WANT TO STUDY’ ’DAD’ ’MOM’ ‘WHAT IS WILL'S BIRTHDAY’ ’WHAT IS BADJUPITER’ ’WHAT IS BADJUPITER LLC’ ’WHAT DOES WILL LOOK LIKE’ ’WHAT ARE WILL'S OTHER SOCIAL MEDIA ACCOUNTS’ ’HOW ARE YOU’ ’GOOD’ ’Great’ ’WELL’ ’EXCELLENT’ ’POORLY’ ’OK’ ’OKAY’ ’TELL ME A JOKE’ ’WHO'S THERE’ ’YAH WHO’ ’TELL ME ANOTHER JOKE’ ’WHAT’ ‘DATA’ ’HELP’ ’SIMPLE LIST’ ’LIST’ ’CAN I CONTACT WILL’ ’HOW CAN I CONTACT WILL’ ’CONTACT WILL’ ’CONTACT’ ’EMAIL WILL’ ‘EMAIL’ ’TALK TO WILL’ ’BADJUPITER’ ’WHERE DOES WILL WORK’ ’SUBWAY’ ’WHAT IS THE WEATHER’ ’WHAT'S THE WEATHER’ ‘WHAT LANGUAGES DO YOU KNOW’ ’WHAT ARE YOU’ 'RESAURANT'",
+    "SIMPLE LIST": "'hello'   'Can you help me'   'Where is Will from'   'What is your name'   'How are you'   'What is BadJupiter'   'What does Will look like'   'Tell me a joke'   'What's the weather'\n For a complete list, try 'List'!",
+    "LIST": "‘HELLO’ ’CAN YOU HELP ME’ ’WHAT KIND OF MUSIC DOES WILL LIKE’ ’WHERE IS WILL FROM’ ’WHAT IS WILL'S FAVORITE COLOR’ ’WHAT SPORTS DOES WILL PLAY’ ’WHO ARE WILL'S PARENTS’ ’MOTHER’ ’Julie is a second grade teacher’ ’JULIE’ ’FATHER’ ’WAYNE’ ’WHERE DOES WILL WANT TO GO TO COLLEGE’ ’WHAT DOES WILL WANT TO STUDY’ ’DAD’ ’MOM’ ‘WHAT IS WILL'S BIRTHDAY’ ’WHAT IS BADJUPITER’ ’WHAT IS BADJUPITER LLC’ ’WHAT DOES WILL LOOK LIKE’ ’WHAT ARE WILL'S OTHER SOCIAL MEDIA ACCOUNTS’ ’HOW ARE YOU’ ’GOOD’ ’Great’ ’WELL’ ’EXCELLENT’ ’POORLY’ ’OK’ ’OKAY’ ’TELL ME A JOKE’ ’WHO'S THERE’ ’YAH WHO’ ’TELL ME ANOTHER JOKE’ ’WHAT’ ‘DATA’ ’HELP’ ’SIMPLE LIST’ ’LIST’ ’CAN I CONTACT WILL’ ’HOW CAN I CONTACT WILL’ ’CONTACT WILL’ ’CONTACT’ ’EMAIL WILL’ ‘EMAIL’ ’TALK TO WILL’ ’BADJUPITER’ ’WHERE DOES WILL WORK’ ’SUBWAY’ ’WHAT IS THE WEATHER’ ’WHAT'S THE WEATHER’ ‘WHAT LANGUAGES DO YOU KNOW’ ’WHAT ARE YOU’ 'RESAURANT' 'HOTEL' 'WHEN WERE YOU CREATED'",
     "CAN I CONTACT WILL": "You can email Will using Will@badjupiter.com, DM him on twitter, or SnapChat him! \nTWITTER: https://twitter.com/SuberWill SNAPCHAT: will_suber Go ahead and add him now using the following image\n![snapchat](https://cloud.githubusercontent.com/assets/20194607/16456293/103745a2-3ddd-11e6-9d04-0653f74cd166.jpeg)",
     "HOW CAN I CONTACT WILL": "You can email Will using Will@badjupiter.com, DM him on twitter, or SnapChat him! \nTWITTER: https://twitter.com/SuberWill SNAPCHAT: will_suber Go ahead and add him now using the following image\n![snapchat](https://cloud.githubusercontent.com/assets/20194607/16456293/103745a2-3ddd-11e6-9d04-0653f74cd166.jpeg)",
     "CONTACT WILL": "You can email Will using Will@badjupiter.com, DM him on twitter, or SnapChat him! \nTWITTER: https://twitter.com/SuberWill SNAPCHAT: will_suber Go ahead and add him now using the following image\n![snapchat](https://cloud.githubusercontent.com/assets/20194607/16456293/103745a2-3ddd-11e6-9d04-0653f74cd166.jpeg)",
@@ -57,6 +57,13 @@
     "WHAT ARE YOU": "I am a personal Bot created by Will!",
     "RESTAURANT": "Click here!  https://www.google.com/#safe=active&q=restaurants",
     "HOTEL": " Click here! https://www.google.com/#safe=active&q=hotel",
+    "WHEN WERE YOU CREATED": "I was created on June 29th, 2016 by Will Suber",
+    "TELL ME ABOUT WILL": "Will has many things about him that I can tell you. Where shall begin?\n If you need assistance in finding a question to ask, Try 'simple list'",
+    "TELL ME EVERYTHING": "Since you are so stubborn... Try asking 'who are Will's parents', or 'What does Will look like'",
+    "EVERYTHING":"Since you are so stubborn... Try asking 'who are Will's parents', or 'What does Will look like'", 
+    "WHAT ARE SOME OF WILL'S FAVORITE PLACES TO EAT": "He enjoys Season's Hrvest buffet at the Turning Stone Resort and Casino, Carmella's in New Hartford, Delmonico's in Utica, Funk n' Waffles in Syracuse, and Teddy's in Rome!",
+    "PHYSICS": "COMING SOON"
+    "@@*****==/|++2376": "Twilio- 14438927057  heroku- will-bot.herokuapp.com   smooch- wills other bot FB- Will's Bot",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Will-Bot is back."
 }
