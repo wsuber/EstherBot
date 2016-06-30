@@ -2,7 +2,7 @@
         "HELLO": "Hi I am Physics-Bot!\nI am a bot created by Will Suber, an intern at BadJupiter LLC\n Type 'Physics' for a menu of options!",
     "CAN YOU HELP ME": "Yes. Please insert a command! Try 'Physics'",
     "PHYSICS": "SELECT: Mechanics, Modern Physics, Waves, Electricity, Constants, Mass, Prefixes, Coefficient of Friction, Frequencies, Absolute Index of Refraction, matter, or resistivity",
-    "MECHANICS": "FORMULAS, SELECT ONE: Displacement or Distance, acceleration, final velocity, force of friction, force due to gravity, normal force, acceleration due to gravity, momentum, impulse, Max force on a spring, Potential energy of a spring, Centripital acceleration, centripital force, potential energy, work, or power.",
+    "MECHANICS": "FORMULAS, SELECT ONE: Average velocity, Displacement or Distance, acceleration, final velocity, force of friction, force due to gravity, normal force, acceleration due to gravity, momentum, impulse, Max force on a spring, Potential energy of a spring, Centripital acceleration, centripital force, potential energy, work, or power.",
     "MODERN PHYSICS": "FORMULAS, SELECT ONE: Energy of a photon or energy to mass",
     "WAVES": "FORMULAS, SELECT ONE: wave speed, period, index of refraction, snells law, or wave ratios",
     "ELECTRICITY": "FORMULAS, SELECT ONE:  Series circuit, Parallel Circuit, electric work, electric power, resistance, current, voltage, electric field strength, electrostatic force",
@@ -34,6 +34,8 @@
     "WORK": "W=Fd or the change in an objects energy! Therefore, the amount of work done on an object is simply how much its energy changed.",
     "POWER": "P=W/t  P=Fd/t   P= Fv (This uses the average velocity/speed) Power is the rate at which energy is expended",
     "AVERAGE VELOCITY": "v=d/t  If you need velocity, make sure you use the total displacement, NOT distance!!",
+    "ENERGY OF A PHOTON": "JOULES: Ep= hf or Ep= hc/(wave length)   ElectronVolts: Ep= Ei-Ef  For the value of h or c, simply type 'h' or 'c', or their actual names (i.e. Speed of light)",
+    ""
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Physics-Bot is back."
 }
