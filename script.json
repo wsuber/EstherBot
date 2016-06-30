@@ -73,6 +73,17 @@
     "UNIVERSAL MASS UNIT": "1 u= 9.31*10^2 Mev (mega eV... For a conversion ask 'mega')  ",
     "MASS OF ELECTRON": " 9.11 * 10^-31 kg",
     "MASS OF PROTON": "1.67 * 10^-27kg", 
+    "MASS OF NEUTRON": "1.67 * 10^-27kg",
+    "TERA":"T=10^12",
+    "GIGA":"G=10^9",
+    "MEGA":"M=10^6",
+    "KILO":"k=10^3",
+    "DECI":"d=10^-1",
+    "CENTI":"c=10^-2",
+    "MILLI":"m=10^-3",
+    "MICRO":"µ=10^-6",
+    "NANO":"n=10^-9",
+    "PICO":"p=10^-12",
     
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Physics-Bot is back."
