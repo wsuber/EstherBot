@@ -45,6 +45,10 @@
     "PARALLEL CIRCUIT": "I=I1+I2+I3...  V=V1=V2...  ****1/Req= 1/R1 + 1/R2 + 1/R3...****",
     "ELECTRIC WORK": "W= PT = VIt = I^2Rt = V^2t/R",
     "ELECTRIC POWER": "P= VI = I^2R = V^2/R",
+    "RESISTANCE": "R=ρL/A   OR   R=V/I <-- Ohm's Law!!",
+    "CURRENT": "I=∆q/t  OR      I=V/R<-- Ohm's Law!!",
+    "VOLTAGE": "Also known as 'Potential Difference! V= W/q OR V=IR <-- Ohm's Law!! ",
+    
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Physics-Bot is back."
 }
