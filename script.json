@@ -25,6 +25,15 @@
     "ACCELERATION DUE TO GRAVITY": "g=Fg/m",
     "MOMENTUM": "Momentum is represented by p. p=mv and the (p Before) = (p After) a collision",
     "IMPULSE": "Impulse is shown using the letter J. J=Fnet*t  OR J= change in momentum (delta p). To find the net force, make sure you use Newton's second law F=ma",
+    "MAX FORCE ON A SPRING": "Fs=kx  THIS IS NOT THE AVERAGE FORCE, RATHER THE MAXIMUM AMOUNT OF FORCE IT TAKES TO COMPRESS A SPRING. Also, the spring constant, k has units of n/m",
+    "POTENTIAL ENERGY OF A SPRING": "PEs=1/2kx^2. This can be set equal to the amount of work it takes to compress a spring, or the kinetic energy of a spring after it is released. Also, the spring constant, k, has units of n/m",
+    "CENTRIPITAL FORCE": "Fc= m(cent. acceleration) or  Fc= (mv^2)/r\n look familiar? It's just Newtons second law!",
+    "CENTRIPITAL ACCELERTION": "a= v^2/r",
+    "POTENTIAL ENERGY": "PE= mgh    Remeber that work is equal to the change in an object's energy... Sometimes these are interchangable!",
+    "KINETIC ENERGY": "KE= 1/2mv^2  Since KE is basically the energy of motion, it makes sense that the velocity is squared, also remeber that work is equal to the change in an object's energy... Sometimes these are interchangable! ",
+    "WORK": "W=Fd or the change in an objects energy! Therefore, the amount of work done on an object is simply how much its energy changed.",
+    "POWER": "P=W/t  P=Fd/t   P= Fv (This uses the average velocity/speed) Power is the rate at which energy is expended",
+    "AVERAGE VELOCITY": "v=d/t  If you need velocity, make sure you use the total displacement, NOT distance!!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Physics-Bot is back."
 }
