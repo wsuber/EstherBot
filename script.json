@@ -36,7 +36,15 @@
     "AVERAGE VELOCITY": "v=d/t  If you need velocity, make sure you use the total displacement, NOT distance!!",
     "ENERGY OF A PHOTON": "JOULES: Ep= hf or Ep= hc/(wave length)   ElectronVolts: Ep= Ei-Ef  For the value of h or c, simply type 'h' or 'c', or their actual names (i.e. Speed of light)",
     "ENERGY TO MASS": "E=mc^2   This can be used in either Joules or eV... be careful about units!",
-    
+    "WAVE SPEED": "v=fλ  This may be the most useful wave equation. Be familiar with it! These units are m/s or m*Hz  (Hz= 1/s)",
+    "PERIOD": "T=1/f  remmeber that you can switch the T and the f to solve for frequency. Also, PERIOD has units of seconds",
+    "INDEX OF REFRACTION": "n=c/v where v is the speed of 'light' in that particular medium.",
+    "SNELLS LAW": "n1*(Sinθ1)=n2*(Sinθ2)",
+    "WAVE RATIOS": "(n2/n1)=(v1/v2)=(λ1/λ2)",
+    "SERIES CIRCUIT": "I=I=I..  V=V1=V2=V3...  Req=R1+R2...",
+    "PARALLEL CIRCUIT": "I=I1+I2+I3...  V=V1=V2...  ****1/Req= 1/R1 + 1/R2 + 1/R3...****",
+    "ELECTRIC WORK": "W= PT = VIt = I^2Rt = V^2t/R",
+    "ELECTRIC POWER": "P= VI = I^2R = V^2/R",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Physics-Bot is back."
 }
