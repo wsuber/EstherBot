@@ -35,7 +35,8 @@
     "POWER": "P=W/t  P=Fd/t   P= Fv (This uses the average velocity/speed) Power is the rate at which energy is expended",
     "AVERAGE VELOCITY": "v=d/t  If you need velocity, make sure you use the total displacement, NOT distance!!",
     "ENERGY OF A PHOTON": "JOULES: Ep= hf or Ep= hc/(wave length)   ElectronVolts: Ep= Ei-Ef  For the value of h or c, simply type 'h' or 'c', or their actual names (i.e. Speed of light)",
-    ""
+    "ENERGY TO MASS": "E=mc^2   This can be used in either Joules or eV... be careful about units!",
+    
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Physics-Bot is back."
 }
